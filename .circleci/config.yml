@@ -44,5 +44,3 @@ workflows:
   workflow:
     jobs:
       - deploy
-      # Run python safety check
-      - python-safety
